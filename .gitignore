@@ -1,0 +1,5 @@
+# this is a comment always starting with hash
+
+
+*.js
+!app.js
