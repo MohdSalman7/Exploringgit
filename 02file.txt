@@ -5,10 +5,14 @@ Git is really amazing thing.
 
 how do you do stash.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 ufff ufff
 =======
 how are you 
 
 whats up
+>>>>>>> Stashed changes
+=======
+hey stashing why are you disturbing me so much
 >>>>>>> Stashed changes
